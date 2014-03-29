@@ -1,0 +1,114 @@
+<tracks rows="256">
+	<track name="global.Blend">
+		<key row="0" value="0.000000" interpolation="0"/>
+		<key row="24" value="0.000000" interpolation="1"/>
+		<key row="40" value="1.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.WordScale">
+		<key row="0" value="1.000000" interpolation="1"/>
+		<key row="40" value="5.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.Angle">
+		<key row="0" value="-25.000000" interpolation="1"/>
+		<key row="40" value="-30.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.Pos">
+		<key row="0" value="10.000000" interpolation="1"/>
+		<key row="3" value="0.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.Focus">
+		<key row="0" value="4.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.Range">
+		<key row="0" value="0.700000" interpolation="0"/>
+	</track>
+	<track name="achscene.SigmaFactor">
+		<key row="0" value="0.900000" interpolation="0"/>
+	</track>
+	<track name="achscene.KernelSize">
+		<key row="0" value="5.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.BlurStrength">
+		<key row="0" value="1.000000" interpolation="0"/>
+	</track>
+	<track name="achscene.Alpha">
+		<key row="0" value="1.000000" interpolation="0"/>
+		<key row="24" value="1.000000" interpolation="1"/>
+		<key row="40" value="0.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.Scale">
+		<key row="0" value="1.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.X">
+		<key row="24" value="-15.000000" interpolation="1"/>
+		<key row="31" value="15.000000" interpolation="0"/>
+		<key row="32" value="-15.000000" interpolation="1"/>
+		<key row="39" value="15.000000" interpolation="0"/>
+		<key row="40" value="-15.000000" interpolation="1"/>
+		<key row="47" value="15.000000" interpolation="0"/>
+		<key row="48" value="-15.000000" interpolation="1"/>
+		<key row="55" value="15.000000" interpolation="0"/>
+		<key row="56" value="-15.000000" interpolation="1"/>
+		<key row="63" value="15.000000" interpolation="0"/>
+		<key row="64" value="-15.000000" interpolation="1"/>
+		<key row="71" value="15.000000" interpolation="0"/>
+		<key row="72" value="-15.000000" interpolation="1"/>
+		<key row="79" value="15.000000" interpolation="0"/>
+		<key row="80" value="-15.000000" interpolation="1"/>
+		<key row="87" value="15.000000" interpolation="0"/>
+		<key row="88" value="-15.000000" interpolation="1"/>
+		<key row="95" value="15.000000" interpolation="0"/>
+		<key row="96" value="-15.000000" interpolation="1"/>
+		<key row="103" value="15.000000" interpolation="0"/>
+		<key row="104" value="-15.000000" interpolation="1"/>
+		<key row="111" value="15.000000" interpolation="0"/>
+		<key row="112" value="-15.000000" interpolation="1"/>
+		<key row="119" value="15.000000" interpolation="0"/>
+		<key row="120" value="-15.000000" interpolation="1"/>
+		<key row="127" value="15.000000" interpolation="0"/>
+		<key row="128" value="-15.000000" interpolation="1"/>
+		<key row="135" value="15.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.X2">
+		<key row="24" value="15.000000" interpolation="0"/>
+		<key row="64" value="-15.000000" interpolation="1"/>
+		<key row="71" value="15.000000" interpolation="0"/>
+		<key row="86" value="-15.000000" interpolation="1"/>
+		<key row="93" value="15.000000" interpolation="0"/>
+		<key row="128" value="-15.000000" interpolation="1"/>
+		<key row="135" value="15.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.Pos"/>
+	<track name="achscene2.Y"/>
+	<track name="achscene2.Z"/>
+	<track name="achscene2.Scale2">
+		<key row="0" value="1.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.Z2">
+		<key row="0" value="3.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.TexIndex2">
+		<key row="64" value="1.000000" interpolation="0"/>
+		<key row="86" value="2.000000" interpolation="0"/>
+		<key row="128" value="3.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.X3">
+		<key row="24" value="15.000000" interpolation="0"/>
+		<key row="48" value="-15.000000" interpolation="1"/>
+		<key row="55" value="15.000000" interpolation="0"/>
+		<key row="104" value="-15.000000" interpolation="1"/>
+		<key row="111" value="15.000000" interpolation="0"/>
+		<key row="124" value="-15.000000" interpolation="1"/>
+		<key row="131" value="15.000000" interpolation="0"/>
+	</track>
+	<track name="achscene2.TexIndex3">
+		<key row="48" value="0.000000" interpolation="0"/>
+		<key row="104" value="1.000000" interpolation="0"/>
+		<key row="124" value="2.000000" interpolation="0"/>
+	</track>
+	<track name="global.Alpha">
+		<key row="0" value="1.000000" interpolation="0"/>
+		<key row="128" value="1.000000" interpolation="1"/>
+		<key row="144" value="0.000000" interpolation="0"/>
+	</track>
+</tracks>
