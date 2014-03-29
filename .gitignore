@@ -60,4 +60,9 @@ GeneratedFiles/
 TestResults/
 misc/
 external/src/
+
 *.wav
+*.exp
+*.pdb
+*.exe
+bin/achfivesec.lib
