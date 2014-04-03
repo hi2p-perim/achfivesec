@@ -1,4 +1,3 @@
-
 achfivesec : First five seconds of A-Channel OP
 ====================
 
@@ -7,8 +6,7 @@ achfivesec : First five seconds of A-Channel OP
 Introduction
 --------------------
 
-*achfivesec* is experimental / practical implementation of 
-first five seconds of A-Channel OP.
+*achfivesec* is experimental / practical implementation of first five seconds of A-Channel OP.
 
 Dependencies
 --------------------
@@ -22,3 +20,4 @@ Dependencies
 * GLM 0.9.4.4
 * SFML 2.1
 * GNU Rocket 0.9
+* [Stefan Gustavson's edtaa3func.c](http://contourtextures.wikidot.com) for distance map generation
